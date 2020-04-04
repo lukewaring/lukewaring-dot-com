@@ -1,12 +1,21 @@
 import React from "react"
-import { Link } from "gatsby"
-import Header from "../components/header"
+import styled from "styled-components"
+
+const Wrapper = styled.div`
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+`
+
+const Header = styled.h1`
+  color: rgb(65, 199, 199);
+  text-align: center;
+`
 
 export default () => (
-  <div style={{ color: `purple` }}>
-    <Link to="/contact/">Contact</Link>
-    <Header headerText="Hello Gatsby!" />
-    <p>What a world.</p>
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
-  </div>
+    <Wrapper>
+      <Header>Luke Waring</Header>
+    </Wrapper>
 )
