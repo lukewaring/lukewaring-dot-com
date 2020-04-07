@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
-
 html {
-    font-family: 'Titillium+Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     color: #D1DEE6;
     background-color: #222429;
 }
@@ -16,9 +14,11 @@ main {
 }
 
 p {
+    font-family: 'Crete Round';
     line-height: 1.6;
 }
 
 a {
     color: #73B3FF;
+    line-height: 2.6;
 }
