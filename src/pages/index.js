@@ -1,17 +1,7 @@
 import React from "react"
-import styled from "styled-components"
-
-const Wrapper = styled.div`
-  position: absolute;
-  top: 25%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
-  padding: 1.5rem;
-`
 
 export default () => (
-    <Wrapper>
+    <main>
       <h1>Luke Waring</h1>
       <br></br>
       <p>Software developer based in Carroll Gardens, Brooklyn</p>
@@ -22,5 +12,5 @@ export default () => (
       <p><a href="https://medium.com/@lukewaring" target="_blank" rel="noopener noreferrer">Medium</a></p>
       <p><a href="https://twitter.com/luke_waring" target="_blank" rel="noopener noreferrer">Twitter</a></p>
       <br></br>
-    </Wrapper>
+    </main>
 )

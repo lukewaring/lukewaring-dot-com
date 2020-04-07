@@ -6,6 +6,15 @@ html {
     background-color: #222429;
 }
 
+main {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 1.5rem;
+}
+
 p {
     line-height: 1.6;
 }
