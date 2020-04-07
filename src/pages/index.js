@@ -11,6 +11,5 @@ export default () => (
       <p><a href="https://linkedin.com/in/lukewaring" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
       <p><a href="https://medium.com/@lukewaring" target="_blank" rel="noopener noreferrer">Medium</a></p>
       <p><a href="https://twitter.com/luke_waring" target="_blank" rel="noopener noreferrer">Twitter</a></p>
-      <br></br>
     </main>
 )
