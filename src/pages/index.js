@@ -1,7 +1,13 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 
 export default () => (
     <div>
+        <Helmet>
+            <title>Luke Waring</title>
+            <meta name="description" content="Personal website of Luke Waring, a software developer based in Brooklyn, NY" />
+            <meta name="author" content="Luke Waring" />
+        </Helmet>
         <h1>Luke Waring</h1>
         <p>Software developer based in Carroll Gardens, Brooklyn</p>
         <p>I work primarily with React and related technologies, but I'm always learning and seek to use the right tool for the job at hand.</p>
