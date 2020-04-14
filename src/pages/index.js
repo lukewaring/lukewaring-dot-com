@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet"
 
 export default () => (
     <div>
-        <Helmet>
+        <Helmet htmlAttributes={{lang: "en"}} >
             <title>Luke Waring</title>
             <meta name="description" content="Personal website of Luke Waring, a software developer based in Brooklyn, NY" />
             <meta name="author" content="Luke Waring" />
