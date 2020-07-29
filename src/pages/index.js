@@ -9,8 +9,9 @@ export default () => (
       <meta name='author' content='Luke Waring' />
     </Helmet>
     <h1>Luke Waring</h1>
-    <p>Software developer based in Brooklyn</p>
-    <p>I work primarily with React and related technologies, but I'm always learning and seek to use the right tool for the job at hand.</p>
+    <h3>Software developer based in Brooklyn</h3>
+    <p>I work primarily with JavaScript, Ruby, React and Ruby on Rails, but I am always learning and seek to use the right tool for the job at hand.</p>
+    <p>I love building user-friendly software that solves real business problems.</p>
     <div><b><a href='https://github.com/lukewaring' target='_blank' rel='noopener noreferrer'>GitHub</a></b></div>
     <div><b><a href='https://linkedin.com/in/lukewaring' target='_blank' rel='noopener noreferrer'>LinkedIn</a></b></div>
     <div><b><a href='https://medium.com/@lukewaring' target='_blank' rel='noopener noreferrer'>Medium</a></b></div>
