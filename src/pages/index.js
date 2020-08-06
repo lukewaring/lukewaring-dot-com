@@ -10,7 +10,7 @@ export default () => (
     </Helmet>
     <h1>Luke Waring</h1>
     <h2>Software developer based in Brooklyn</h2>
-    <p>I work primarily with JavaScript, Ruby, React and Ruby on Rails, but I am always learning and seek to use the right tool for the job at hand.</p>
+    <p>I work primarily with JavaScript, React and Ruby on Rails, but I am always learning and seek to use the right tool for the job at hand.</p>
     <p>I love building user-friendly software that solves real business problems.</p>
     <div><b><a href='https://github.com/lukewaring' target='_blank' rel='noopener noreferrer'>GitHub</a></b></div>
     <div><b><a href='https://linkedin.com/in/lukewaring' target='_blank' rel='noopener noreferrer'>LinkedIn</a></b></div>
