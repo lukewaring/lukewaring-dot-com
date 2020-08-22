@@ -7,6 +7,12 @@ export default () => (
       <title>Luke Waring</title>
       <meta name='description' content='Personal website of Luke Waring, a software developer based in Brooklyn, NY' />
       <meta name='author' content='Luke Waring' />
+      <meta property='og:title' content='Luke Waring' />
+      <meta property='og:type' content='website' />
+      <meta property='og:image' content='https://twitter.com/luke_waring/photo' />
+      <meta property='og:url' content='https://www.lukewaring.com/' />
+      <meta property='og:description' content='Personal website of Luke Waring, a software developer based in Brooklyn, NY' />
+
     </Helmet>
     <h1>Luke Waring</h1>
     <h2>Software developer based in Brooklyn</h2>
