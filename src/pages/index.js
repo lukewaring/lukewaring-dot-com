@@ -14,7 +14,7 @@ export default () => (
       <meta property='og:description' content='Personal website of Luke Waring, a software developer based in Brooklyn, NY' />
     </Helmet>
     <h1>Luke Waring</h1>
-    <h2>Software developer based in Brooklyn</h2>
+    <h2>Software developer based in Brooklyn, New York</h2>
     <p>I work primarily with JavaScript, React and Ruby on Rails, but I am always learning and seek to use the right tool for the job at hand.</p>
     <p>I love building user-friendly software that solves real business problems.</p>
     <div><b><a href='https://github.com/lukewaring' target='_blank' rel='noopener noreferrer'>GitHub</a></b></div>
