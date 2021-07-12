@@ -15,7 +15,7 @@ export default () => (
     </Helmet>
     <h1>Luke Waring</h1>
     <h2>Software Engineer at Spring Health</h2>
-    <h2>Brooklyn, New York</h2>
+    <h3>Brooklyn, New York</h3>
     <p>I work primarily with JavaScript, React, GraphQL and Ruby on Rails, but I am always learning and seek to use the right tool for the job at hand.</p>
     <p>I love working with good people to build user-friendly software that solves real problems.</p>
     <div><b><a href='https://github.com/lukewaring' target='_blank' rel='noopener noreferrer'>GitHub</a></b></div>
